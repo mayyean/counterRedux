@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: darkslategray;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+  width: 50%;
+  margin: 2% auto;
+  background-color: azure;
+  border: 3px solid darkslategray;
+  border-radius: 10px;
+}
+
+.counter {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.button button {
+  background-color: aliceblue;
+  margin: 0.5%;
+  padding: 1% 2%;
+  border: 1px solid darkslategray;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 10%;
+}
